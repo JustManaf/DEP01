@@ -1,0 +1,13 @@
+{
+
+        "name": "DEP01",
+        "description": "description",
+        "authors": "author",
+        "version": "1.0.0",
+        "main": "application.js",
+        "dependencies": {},
+        "scripts":{
+            "start": "node application.js",
+            "test": "echo \"Error: no test specified\" && exit 1"
+        }
+}
